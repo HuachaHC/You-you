@@ -1,8 +1,8 @@
 # Y-U
-------hello-word----------
+------hello-world----------
 
 
 An ignorant young man, a longing for the new world, and the courage to explore...
 
 
-------hello-word----------
+------hello-world----------
